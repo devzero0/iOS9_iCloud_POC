@@ -28,8 +28,6 @@ Then install the requirements:
       -h --help             Show this screen
       --version             Show version
 
-## Notes
-As noted in the [InflatableDonkey](https://github.com/horrorho/InflatableDonkey) writeup, the cryptographical aspects are troublesome. 
 
 ## Credits
 [horrorho](https://github.com/horrorho) for inflatableDonkey, and everyone that is credited there
