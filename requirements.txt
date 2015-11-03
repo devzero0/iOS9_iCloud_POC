@@ -1,0 +1,4 @@
+docopt==0.6.2
+protobuf==2.6.1
+requests==2.8.1
+wheel==0.24.0
